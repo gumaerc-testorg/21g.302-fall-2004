@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains the information regarding en direct tourisme culturel.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21g-302-french-ii-fall-2004/33698cbbd0953a0ccd4dfc2173e686e8_MIT21G_302_F04_En_direct_V.pdf
+file: /media/courses/21g-302-french-ii-fall-2004/33698cbbd0953a0ccd4dfc2173e686e8_MIT21G_302_F04_En_direct_V.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: 'En direct: Tourisme culturel'
 uid: 33698cbb-d095-3a0c-cd4d-fc2173e686e8
