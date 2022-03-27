@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: f6f344e6-345b-7457-a14d-cfec8862a219
 resourcetype: Document
 title: 'Activite de Class: Halloween, conqurante a trouille'
 uid: d87d3cc5-c2fa-08a3-89d1-23af60c82648

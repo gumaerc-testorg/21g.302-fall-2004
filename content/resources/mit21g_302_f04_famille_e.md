@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: f6f344e6-345b-7457-a14d-cfec8862a219
 resourcetype: Document
 title: 'Activite de Classe: Nos photos de famille'
 uid: be8913be-b660-6870-92a8-351781703dfe

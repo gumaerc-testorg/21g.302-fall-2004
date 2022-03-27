@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: f6f344e6-345b-7457-a14d-cfec8862a219
 resourcetype: Document
 title: 'Activit de Classe: Le monde du travail (sur 2 jours)'
 uid: 463d5b75-2bb6-9fba-7506-259305560da2

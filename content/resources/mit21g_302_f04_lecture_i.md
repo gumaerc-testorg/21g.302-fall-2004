@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: f6f344e6-345b-7457-a14d-cfec8862a219
 resourcetype: Document
 title: FICHE DE LECTURE
 uid: 09370999-19aa-7b28-19c0-7abf221c6c33

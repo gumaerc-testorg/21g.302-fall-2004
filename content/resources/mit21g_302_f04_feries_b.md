@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: f6f344e6-345b-7457-a14d-cfec8862a219
 resourcetype: Document
 title: "Activite de Classe: Les jours f\xE9ri\xE9s"
 uid: 28f1c4f4-f065-1fbb-7dc3-65d7580167a8

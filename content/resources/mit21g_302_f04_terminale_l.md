@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: f6f344e6-345b-7457-a14d-cfec8862a219
 resourcetype: Document
 title: 'Activit de Classe: Le meilleur emploi du temps en terminale'
 uid: 7d6ef406-7986-3164-6a62-78156e7ea096

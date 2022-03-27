@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: f6f344e6-345b-7457-a14d-cfec8862a219
 resourcetype: Document
 title: A quoi correspondent les dates suivantes
 uid: 4ff03062-3d93-a565-57b3-e83f30250e47

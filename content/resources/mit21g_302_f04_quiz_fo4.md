@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: f6f344e6-345b-7457-a14d-cfec8862a219
 resourcetype: Document
 title: "Quiz de r\xE9vision des chapitres 1 \xE0 7"
 uid: 47be0832-9110-127b-6468-ef87dd9d1531

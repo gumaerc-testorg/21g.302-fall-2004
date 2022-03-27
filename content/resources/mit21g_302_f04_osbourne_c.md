@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: f6f344e6-345b-7457-a14d-cfec8862a219
 resourcetype: Document
 title: 'Activite de Classe: Notre famille Osbourne'
 uid: 48f2867f-6781-69f4-bd02-874b122a18ab

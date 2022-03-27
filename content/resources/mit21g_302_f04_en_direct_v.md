@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: f6f344e6-345b-7457-a14d-cfec8862a219
 resourcetype: Document
 title: 'En direct: Tourisme culturel'
 uid: 33698cbb-d095-3a0c-cd4d-fc2173e686e8

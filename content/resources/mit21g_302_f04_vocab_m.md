@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: f6f344e6-345b-7457-a14d-cfec8862a219
 resourcetype: Document
 title: Fiche de vocabulaire  partir des textes des pages 368, 369, 370
 uid: d5ff7bf9-11c0-b575-7315-661190aeb32b

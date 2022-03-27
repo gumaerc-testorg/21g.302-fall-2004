@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: f6f344e6-345b-7457-a14d-cfec8862a219
 resourcetype: Document
 title: 'Activit de Classe: Prparatifs de vacances'
 uid: fb449fd1-b44f-1a98-d1ea-ae2929789d8e

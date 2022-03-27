@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: f6f344e6-345b-7457-a14d-cfec8862a219
 resourcetype: Document
 title: 'Activit de Classe: Dans un magasin de vtements'
 uid: 15dac607-b6f4-a6df-3258-719ea4908067

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: f6f344e6-345b-7457-a14d-cfec8862a219
 resourcetype: Document
 title: "Chapitre 12: Loisirs et personnalit\xE9"
 uid: b0d0173e-ff34-9584-065b-abc88bd81ac5

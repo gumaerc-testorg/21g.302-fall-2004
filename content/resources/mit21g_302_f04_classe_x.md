@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: f6f344e6-345b-7457-a14d-cfec8862a219
 resourcetype: Document
 title: 'Activit de Classe: Un peu de gographie'
 uid: 55c45c8c-c6b4-4adc-087c-5d093bec02c8

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: f6f344e6-345b-7457-a14d-cfec8862a219
 resourcetype: Document
 title: "Activite de Classe: Nos Souvenirs d\u2019en France"
 uid: 65a353dc-56bd-49db-7ac2-05711e0a0807
