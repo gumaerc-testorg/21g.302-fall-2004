@@ -3,6 +3,7 @@ content_type: page
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
+parent_uid: null
 title: Assignments
 uid: f6f344e6-345b-7457-a14d-cfec8862a219
 ---
@@ -181,7 +182,7 @@ _Examen #1_: Chapitre Préliminaire et Chapitres 1 à 7
 In-Class Activities for Chapitres 1-7
 -------------------------------------
 
-*   Quiz de révision ([PDF]({{< baseurl >}}/resources/mit21g_302_f04_quiz_fo4))
+*   Quiz de révision ({{< resource_link 47be0832-9110-127b-6468-ef87dd9d1531 "PDF" >}})
     
 
 {{< tableopen >}}
@@ -229,7 +230,7 @@ Dans Parallèles, lisez Contexte 2: "Deux familles martiniquaises bien différen
 11
 {{< tdclose >}}
 {{< tdopen >}}
-Dans Parallèles, révisez Structure #2: L'imparfait (description): p. 301-302 et préparez par écrit l'exercice 8-12 p. 303. Regardez le calendrier: p. 318. En vous aidant de l'information donnée p. 319, remplissez _la fiche: A quoi correspondent les dates suivantes?_ ([PDF]({{< baseurl >}}/resources/mit21g_302_f04_doss8_pt2_a))  
+Dans Parallèles, révisez Structure #2: L'imparfait (description): p. 301-302 et préparez par écrit l'exercice 8-12 p. 303. Regardez le calendrier: p. 318. En vous aidant de l'information donnée p. 319, remplissez _la fiche: A quoi correspondent les dates suivantes?_ ({{< resource_link 4ff03062-3d93-a565-57b3-e83f30250e47 "PDF" >}})  
   
 _Composition #1: Traditions familiales_. Dans le Cahier d'activités, faites l'exercice 8-8: p. 155. Ecrivez sur une feuille séparée un minimum de 150 mots. Tapez votre travail et laissez un double espacement entre les lignes pour faciliter les corrections. _Attention_: Votre devoir doit être votre travail personnel. Il est important de ne pas vous faire aider pour vos compositions.
 {{< tdclose >}}
@@ -289,13 +290,13 @@ Phonétique: les semi-voyelles: p. 316-317.
 In-Class Activities for Chapitre 8
 ----------------------------------
 
-*   Les jours fériés ([PDF]({{< baseurl >}}/resources/mit21g_302_f04_feries_b))
-*   Notre famille Osbourne ([PDF]({{< baseurl >}}/resources/mit21g_302_f04_osbourne_c))
-*   Une Saint-Sylvestre difficile ([PDF]({{< baseurl >}}/resources/mit21g_302_f04_difficile_d))
-*   Nos photos de famille ([PDF]({{< baseurl >}}/resources/mit21g_302_f04_famille_e)) 
-*   Nos souvenirs d'enfance ([PDF]({{< baseurl >}}/resources/mit21g_302_f04_france_e))
-*   Halloween, conquérante citrouille ([PDF]({{< baseurl >}}/resources/mit21g_302_f04_trouille_f))
-*   Activités Web ([PDF]({{< baseurl >}}/resources/mit21g_302_f04_web_g))
+*   Les jours fériés ({{< resource_link 28f1c4f4-f065-1fbb-7dc3-65d7580167a8 "PDF" >}})
+*   Notre famille Osbourne ({{< resource_link 48f2867f-6781-69f4-bd02-874b122a18ab "PDF" >}})
+*   Une Saint-Sylvestre difficile ({{< resource_link 7699d9bd-d4fc-f017-809c-1a1fc8b6d0d4 "PDF" >}})
+*   Nos photos de famille ({{< resource_link be8913be-b660-6870-92a8-351781703dfe "PDF" >}}) 
+*   Nos souvenirs d'enfance ({{< resource_link 65a353dc-56bd-49db-7ac2-05711e0a0807 "PDF" >}})
+*   Halloween, conquérante citrouille ({{< resource_link d87d3cc5-c2fa-08a3-89d1-23af60c82648 "PDF" >}})
+*   Activités Web ({{< resource_link 434e2bbd-4b9e-4759-1d8a-b0d026fcec09 "PDF" >}})
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -315,7 +316,7 @@ Chapitre 9: Les années de lycée
 16
 {{< tdclose >}}
 {{< tdopen >}}
-_Chapitre 9_: Dans Parallèles, lisez Contexte 1: "Je me souviens…:" p. 329 et étudiez le vocabulaire à la page 330. Remplissez _la fiche de lecture_ ([PDF]({{< baseurl >}}/resources/mit21g_302_f04_lecture_h)). Dans le Cahier d'activités, faites les exercices 9-2 et 9-3, p. 162.
+_Chapitre 9_: Dans Parallèles, lisez Contexte 1: "Je me souviens…:" p. 329 et étudiez le vocabulaire à la page 330. Remplissez _la fiche de lecture_ ({{< resource_link 5a1eb38f-d19d-34af-6482-59a8512f92cb "PDF" >}}). Dans le Cahier d'activités, faites les exercices 9-2 et 9-3, p. 162.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -324,7 +325,7 @@ _Chapitre 9_: Dans Parallèles, lisez Contexte 1: "Je me souviens…:" p. 329 et
 17
 {{< tdclose >}}
 {{< tdopen >}}
-Dans Parallèles, étudiez Structure #1: Les verbes _connaître, savoir_ et suivre: p. 332-333 et p. 335. Lisez Contexte 2: "Tu m'aides un peu?": p. 337 et étudiez le vocabulaire p. 338. Remplissez la _fiche de lecture_ ([PDF]({{< baseurl >}}/resources/mit21g_302_f04_lecture_i)). Dans le Cahier d'activités, faites les exercices 9-4 et 9-5: p.163.
+Dans Parallèles, étudiez Structure #1: Les verbes _connaître, savoir_ et suivre: p. 332-333 et p. 335. Lisez Contexte 2: "Tu m'aides un peu?": p. 337 et étudiez le vocabulaire p. 338. Remplissez la _fiche de lecture_ ({{< resource_link 09370999-19aa-7b28-19c0-7abf221c6c33 "PDF" >}}). Dans le Cahier d'activités, faites les exercices 9-4 et 9-5: p.163.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -348,7 +349,7 @@ Lycee Professionnel Guynemer
 Bienvenue sur le site du Lycée Alphonse Daudet de Nîmes  
 [Lycée RICHELIEU](http://www.lyc-richelieu-rueil.ac-versailles.fr/)  
   
-2\. _Pour l'établissement que vous avez choisi, remplissez_ la fiche: Activité Web ([PDF]({{< baseurl >}}/resources/mit21g_302_f04_web_j))
+2\. _Pour l'établissement que vous avez choisi, remplissez_ la fiche: Activité Web ({{< resource_link d1b0af23-26fc-6a82-bacc-bcfc360a0b9c "PDF" >}})
 
 
 {{< tdclose >}}
@@ -359,7 +360,7 @@ Bienvenue sur le site du Lycée Alphonse Daudet de Nîmes
 19
 {{< tdclose >}}
 {{< tdopen >}}
-Dans Parallèles, lisez Contexte 3: "Le jour du bac:" p. 343 et étudiez le vocabulaire: p. 345. Etudiez Structure #3: La narration au passé: l'imparfait vs. le passé composé: p. 346-347. Remplissez _la fiche_ ([PDF]({{< baseurl >}}/resources/mit21g_302_f04_lecture_k)) _._ Dans le Cahier d'activités, faites les exercices 9-13 et 9-14: p. 168-169.
+Dans Parallèles, lisez Contexte 3: "Le jour du bac:" p. 343 et étudiez le vocabulaire: p. 345. Etudiez Structure #3: La narration au passé: l'imparfait vs. le passé composé: p. 346-347. Remplissez _la fiche_ ({{< resource_link 55fe3daf-b677-27b4-7a51-60ff76f28982 "PDF" >}}) _._ Dans le Cahier d'activités, faites les exercices 9-13 et 9-14: p. 168-169.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -422,7 +423,7 @@ Les expressions de temps _depuis_, _pendant_, _il y a_ : p. 352-353.
 In-Class Activities for Chapitre 9
 ----------------------------------
 
-*   Le meilleur emploi du temps en terminale ([PDF]({{< baseurl >}}/resources/mit21g_302_f04_terminale_l))
+*   Le meilleur emploi du temps en terminale ({{< resource_link 7d6ef406-7986-3164-6a62-78156e7ea096 "PDF" >}})
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -442,7 +443,7 @@ Chapitre 10: A la fac!
 24
 {{< tdclose >}}
 {{< tdopen >}}
-_Chapitre 10_: Dans Parallèles, lisez Contexte 1: "On fait des études:" p. 368, 369 et 370 et étudiez le vocabulaire à la page 371. Remplissez _la fiche de vocabulaire_ ([PDF]({{< baseurl >}}/resources/mit21g_302_f04_vocab_m)) sur ces petits textes. Etudiez Structure #1: Les verbes _dire, lire_ et _écrire_: p. 373-374. Dans le Cahier d'activités, faites les exercices 10-2, 10-3 et 10-4: p. 174-176.
+_Chapitre 10_: Dans Parallèles, lisez Contexte 1: "On fait des études:" p. 368, 369 et 370 et étudiez le vocabulaire à la page 371. Remplissez _la fiche de vocabulaire_ ({{< resource_link d5ff7bf9-11c0-b575-7315-661190aeb32b "PDF" >}}) sur ces petits textes. Etudiez Structure #1: Les verbes _dire, lire_ et _écrire_: p. 373-374. Dans le Cahier d'activités, faites les exercices 10-2, 10-3 et 10-4: p. 174-176.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -451,7 +452,7 @@ _Chapitre 10_: Dans Parallèles, lisez Contexte 1: "On fait des études:" p. 368
 25
 {{< tdclose >}}
 {{< tdopen >}}
-Dans Parallèles, lisez Contexte 2: "La vie d'étudiants: de nos jours et autrefois:" p. 376 et étudiez le vocabulaire p. 377. Remplissez la _fiche de lecture_ ([PDF]({{< baseurl >}}/resources/mit21g_302_f04_lecture_n)) sur ce texte. Etudiez Structure #2: Les pronoms compléments d'objet indirect: p. 379-380. Dans le Cahier d'activités, faites les exercices 10-5 à 10-8: p. 177-179.
+Dans Parallèles, lisez Contexte 2: "La vie d'étudiants: de nos jours et autrefois:" p. 376 et étudiez le vocabulaire p. 377. Remplissez la _fiche de lecture_ ({{< resource_link 96097d6d-49e9-67b3-8d21-ad9e695986ad "PDF" >}}) sur ce texte. Etudiez Structure #2: Les pronoms compléments d'objet indirect: p. 379-380. Dans le Cahier d'activités, faites les exercices 10-5 à 10-8: p. 177-179.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -480,7 +481,7 @@ Composition #2: Est-ce que vous vous souvenez du jour où vous avez reçu une le
 28
 {{< tdclose >}}
 {{< tdopen >}}
-_Activité_ _Web: Regardez le site suivant pour découvrir des informations sur l'enseignement supérieur en France_: l'enseignement supérieur en FranceRemplissez _la fiche: Activité web_ ([PDF]({{< baseurl >}}/resources/mit21g_302_f04_web_o))  
+_Activité_ _Web: Regardez le site suivant pour découvrir des informations sur l'enseignement supérieur en France_: l'enseignement supérieur en FranceRemplissez _la fiche: Activité web_ ({{< resource_link 8ff008ed-cd70-57db-e0fc-28642705400a "PDF" >}})  
  
 {{< tdclose >}}
 
@@ -512,8 +513,8 @@ Le conditionnel: p. 393-394
 In-Class Activities for Chapitre 10
 -----------------------------------
 
-*   Les pronoms ([PDF]({{< baseurl >}}/resources/mit21g_302_f04_classe_o1))
-*   Jeu de mots ([PDF]({{< baseurl >}}/resources/mit21g_302_f04_classe_o2)) 
+*   Les pronoms ({{< resource_link af86646a-a5a1-dbe2-5f80-bfb4155ea7c7 "PDF" >}})
+*   Jeu de mots ({{< resource_link 10af324e-61e6-26c7-738e-d7691982d25c "PDF" >}}) 
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -533,7 +534,7 @@ Chapitre 11: Les decisions de la vie active
 30
 {{< tdclose >}}
 {{< tdopen >}}
-_Chapitre 11_: Dans Parallèles, lisez Contexte 1: "Le choix d'un métier:" p. 407-408 et étudiez le vocabulaire à la page 409. Remplissez _la fiche de lecture_ ([PDF]({{< baseurl >}}/resources/mit21g_302_f04_lecture_p)) sur ces deux interviews.
+_Chapitre 11_: Dans Parallèles, lisez Contexte 1: "Le choix d'un métier:" p. 407-408 et étudiez le vocabulaire à la page 409. Remplissez _la fiche de lecture_ ({{< resource_link 85ffc699-7d41-4da5-9934-034043c4f1bd "PDF" >}}) sur ces deux interviews.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -562,7 +563,7 @@ Dans Parallèles, lisez Contexte 3: "Le monde du travail:" p. 419-420 et étudie
 {{< tdopen >}}
 Etudiez Structure #3: Les verbes croire et voir: p.422-423. Dans le Cahier d'activités, faites les exercices 11-5: p. 193 et 11-9: p. 196.  
   
-_Activité web_ ([PDF]({{< baseurl >}}/resources/mit21g_302_f04_web_q)): Allez sur le site de MIT-France qui contient la liste des compagnies françaises proposant des stages aux étudiants du MIT. [Internships - Participating Companies](https://misti.mit.edu/student-programs/location/france)  
+_Activité web_ ({{< resource_link 40739737-2286-e4fa-1a0d-b5f5d80b62ff "PDF" >}}): Allez sur le site de MIT-France qui contient la liste des compagnies françaises proposant des stages aux étudiants du MIT. [Internships - Participating Companies](https://misti.mit.edu/student-programs/location/france)  
   
 Choisissez une compagnie qui vous intéresse et remplissez la fiche Activité web avec les informations demandées sur la compagnie que vous avez choisie.  
  
@@ -617,9 +618,9 @@ Le présent du subjonctif: verbes réguliers; expressions impersonnelles d'oblig
 In-Class Activities for Chapitre 11
 -----------------------------------
 
-*   Le choix d’un métier ([PDF]({{< baseurl >}}/resources/mit21g_302_f04_classe_r))
-*   Dans un magasin de vêtements ([PDF]({{< baseurl >}}/resources/mit21g_302_f04_classe_s))
-*   Le dur monde du travail ([PDF]({{< baseurl >}}/resources/mit21g_302_f04_classe_t))
+*   Le choix d’un métier ({{< resource_link 1c537abd-b51f-e1aa-2b12-582b69fca9d2 "PDF" >}})
+*   Dans un magasin de vêtements ({{< resource_link 15dac607-b6f4-a6df-3258-719ea4908067 "PDF" >}})
+*   Le dur monde du travail ({{< resource_link 463d5b75-2bb6-9fba-7506-259305560da2 "PDF" >}})
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -639,7 +640,7 @@ Chapitre 12: Loisirs et vacances et chapitre 13: La qualité de la vie
 37
 {{< tdclose >}}
 {{< tdopen >}}
-Chapitre 12: Dans Parallèles, lisez Contexte 1: "Destinations de vacances:" p. 445-446 et étudiez le vocabulaire à la page 446. _Remplissez la fiche de lecture_ ([PDF]({{< baseurl >}}/resources/mit21g_302_f04_lecture_u)). Etudiez Structure #1: Les noms géographiques et les prépositions: p. 448-449. Dans le Cahier d'activités, faites les exercices 12-1 et 12-2: p. 203-204 et l'exercice 12-3: p. 204.
+Chapitre 12: Dans Parallèles, lisez Contexte 1: "Destinations de vacances:" p. 445-446 et étudiez le vocabulaire à la page 446. _Remplissez la fiche de lecture_ ({{< resource_link a7657530-6d0f-3370-76cc-ca024663ac00 "PDF" >}}). Etudiez Structure #1: Les noms géographiques et les prépositions: p. 448-449. Dans le Cahier d'activités, faites les exercices 12-1 et 12-2: p. 203-204 et l'exercice 12-3: p. 204.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -660,7 +661,7 @@ Dans Parallèles, lisez Contexte 3: "Loisirs et personnalité:" p. 456-457 et é
 Dans Parallèles, lisez Contexte 4: "Ne pas bronzer idiot:" p. 462-463 et étudiez le vocabulaire: p. 463. Dans le Cahier d'activités, faites l'exercice 12-10, p. 211.  
   
 _Exercice de compréhension (sur CD audio)_:  
-Faites l'exercice de compréhension En direct: Tourisme culturel ([PDF]({{< baseurl >}}/resources/mit21g_302_f04_en_direct_v)) à la page 456 dans Parallèles.
+Faites l'exercice de compréhension En direct: Tourisme culturel ({{< resource_link 33698cbb-d095-3a0c-cd4d-fc2173e686e8 "PDF" >}}) à la page 456 dans Parallèles.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -769,10 +770,10 @@ Activités de fin de semestre.
 In-Class Activities for Chapitres 12 and 13
 -------------------------------------------
 
-*   Loisirs et personnalité ([PDF]({{< baseurl >}}/resources/mit21g_302_f04_classe_w))           
-*   Un peu de géographie ([PDF]({{< baseurl >}}/resources/mit21g_302_f04_classe_x))
-*   Nos vacances ([PDF]({{< baseurl >}}/resources/mit21g_302_f04_classe_y))
-*   Loisirs et personnalité: nos définitions ([PDF]({{< baseurl >}}/resources/mit21g_302_f04_classe_z))
-*   Préparatifs de vacances ([PDF]({{< baseurl >}}/resources/mit21g_302_f04_classe_z1))
-*   Retour de vacances ([PDF]({{< baseurl >}}/resources/mit21g_302_f04_classe_z2))
-*   La qualité de notre vie ([PDF]({{< baseurl >}}/resources/mit21g_302_f04_classe_z3))
+*   Loisirs et personnalité ({{< resource_link b0d0173e-ff34-9584-065b-abc88bd81ac5 "PDF" >}})           
+*   Un peu de géographie ({{< resource_link 55c45c8c-c6b4-4adc-087c-5d093bec02c8 "PDF" >}})
+*   Nos vacances ({{< resource_link b56dd4cd-b65f-d012-923d-968a2e01c2a8 "PDF" >}})
+*   Loisirs et personnalité: nos définitions ({{< resource_link a9fc14ea-1d22-3cc7-929c-585a2e116ee3 "PDF" >}})
+*   Préparatifs de vacances ({{< resource_link fb449fd1-b44f-1a98-d1ea-ae2929789d8e "PDF" >}})
+*   Retour de vacances ({{< resource_link b54ce72f-d963-5624-8190-1ad2a2a4aa42 "PDF" >}})
+*   La qualité de notre vie ({{< resource_link 05fb317f-5124-670c-223c-8d1b0a3241a1 "PDF" >}})
