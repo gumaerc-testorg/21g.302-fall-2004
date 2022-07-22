@@ -5,6 +5,7 @@ file: /courses/21g-302-french-ii-fall-2004/d1b0af2326fc6a82baccbcfc360a0b9c_MIT2
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ACTIVITE WEB
 uid: d1b0af23-26fc-6a82-bacc-bcfc360a0b9c
 ---
 This resource contains the information regarding activate web.
-

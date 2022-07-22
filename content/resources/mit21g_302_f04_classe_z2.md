@@ -6,6 +6,7 @@ file: /courses/21g-302-french-ii-fall-2004/b54ce72fd963562481901ad2a2a4aa42_MIT2
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Activit de Classe: Retour de vacances'
 uid: b54ce72f-d963-5624-8190-1ad2a2a4aa42
 ---
 This resource contains the information regarding activit de Classe retour de vacances.
-

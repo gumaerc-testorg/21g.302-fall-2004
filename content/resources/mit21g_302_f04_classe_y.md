@@ -5,6 +5,7 @@ file: /courses/21g-302-french-ii-fall-2004/b56dd4cdb65fd012923d968a2e01c2a8_MIT2
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Chapitre 12
 uid: b56dd4cd-b65f-d012-923d-968a2e01c2a8
 ---
 This resource contains the information regarding chapitre 12.
-

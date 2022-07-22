@@ -6,6 +6,7 @@ file: /courses/21g-302-french-ii-fall-2004/48f2867f678169f4bd02874b122a18ab_MIT2
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Activite de Classe: Notre famille Osbourne'
 uid: 48f2867f-6781-69f4-bd02-874b122a18ab
 ---
 This resource contains the information regarding activite de Classe notre famille Osbourne.
-

@@ -6,6 +6,7 @@ file: /courses/21g-302-french-ii-fall-2004/55c45c8cc6b44adc087c5d093bec02c8_MIT2
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Activit de Classe: Un peu de gographie'
 uid: 55c45c8c-c6b4-4adc-087c-5d093bec02c8
 ---
 This resource contains the information regarding activit de Classe un peu de gographie.
-

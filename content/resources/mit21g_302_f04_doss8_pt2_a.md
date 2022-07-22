@@ -6,6 +6,7 @@ file: /courses/21g-302-french-ii-fall-2004/4ff030623d93a56557b3e83f30250e47_MIT2
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: A quoi correspondent les dates suivantes
 uid: 4ff03062-3d93-a565-57b3-e83f30250e47
 ---
 This resource contains the information regarding a quoi correspondent les dates suivantes.
-

@@ -5,6 +5,7 @@ file: /courses/21g-302-french-ii-fall-2004/407397372286e4fa1a0db5f5d80b62ff_MIT2
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ACTIVIT WEB
 uid: 40739737-2286-e4fa-1a0d-b5f5d80b62ff
 ---
 This resource contains the information regarding Activit web.
-

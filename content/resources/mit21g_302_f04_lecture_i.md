@@ -5,6 +5,7 @@ file: /courses/21g-302-french-ii-fall-2004/0937099919aa7b2819c07abf221c6c33_MIT2
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: FICHE DE LECTURE
 uid: 09370999-19aa-7b28-19c0-7abf221c6c33
 ---
 This resource contains the information regarding Fiche de lecture.
-

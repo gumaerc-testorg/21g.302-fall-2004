@@ -6,6 +6,7 @@ file: /courses/21g-302-french-ii-fall-2004/10af324e61e626c7738ed7691982d25c_MIT2
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Activit de Classe: Jeu de mots'
 uid: 10af324e-61e6-26c7-738e-d7691982d25c
 ---
 This resource contains the information regarding activit de classe Jeu de mots.
-
