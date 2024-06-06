@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding Activit web.
 file: /courses/21g-302-french-ii-fall-2004/407397372286e4fa1a0db5f5d80b62ff_MIT21G_302_F04_web_Q.pdf
+file_size: 63329
 file_type: application/pdf
 learning_resource_types:
 - Assignments
