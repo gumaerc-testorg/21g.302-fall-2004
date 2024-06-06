@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains the information regarding activit de classe Jeu
   de mots.
 file: /courses/21g-302-french-ii-fall-2004/10af324e61e626c7738ed7691982d25c_MIT21G_302_F04_classe_O2.pdf
+file_size: 56251
 file_type: application/pdf
 learning_resource_types:
 - Assignments
