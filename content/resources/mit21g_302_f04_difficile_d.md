@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains the information regarding activite de classe dicte
   corrige Une saint-sylvestre difficile.
 file: /courses/21g-302-french-ii-fall-2004/7699d9bdd4fcf017809c1a1fc8b6d0d4_MIT21G_302_F04_difficile_D.pdf
+file_size: 56223
 file_type: application/pdf
 learning_resource_types:
 - Assignments

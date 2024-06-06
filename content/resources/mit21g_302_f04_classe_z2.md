@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains the information regarding activit de Classe retour
   de vacances.
 file: /courses/21g-302-french-ii-fall-2004/b54ce72fd963562481901ad2a2a4aa42_MIT21G_302_F04_Classe_Z2.pdf
+file_size: 58001
 file_type: application/pdf
 learning_resource_types:
 - Assignments

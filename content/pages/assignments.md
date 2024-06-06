@@ -1,6 +1,6 @@
 ---
 content_type: page
-description: ''
+description: Assignments section.
 draft: false
 learning_resource_types:
 - Assignments
@@ -192,8 +192,8 @@ Détachez, agraphez et apportez en classe tous les exercices de compréhension a
 
 *Examen #2: Chapitre 8: Des fêtes toute l'année*
 
-*Vocabulaire: p. 324-325.*   
-  
+*Vocabulaire: p. 324-325.* 
+
 Les pronoms relatifs *qui* et *que*: p. 296-297.
 
 L'imparfait (description et habitudes): p. 301-302 et p. 308-309.
@@ -238,9 +238,9 @@ Activité Web
 
 *Lycees*:
 
-[Bienvenue sur le site du Lycée THIERS](http://www.lyc-thiers.ac-aix-marseille.fr/webphp/newsite/index2.php)   
-Lycee Professionnel Guynemer   
-Bienvenue sur le site du Lycée Alphonse Daudet de Nîmes   
+Bienvenue sur le site du Lycée THIERS    
+Lycee Professionnel Guynemer    
+Bienvenue sur le site du Lycée Alphonse Daudet de Nîmes    
 [Lycée RICHELIEU](http://www.lyc-richelieu-rueil.ac-versailles.fr/)
 
 2\. *Pour l'établissement que vous avez choisi, remplissez* la fiche: Activité Web ({{% resource_link "d1b0af23-26fc-6a82-bacc-bcfc360a0b9c" "PDF" %}})
@@ -275,15 +275,15 @@ Activités de révision.
 
 Détachez, agraphez et apportez en classe tous les exercices de compréhension auditive du Chapitre 9: p. 37-39.
 
-*Examen #3: Chapitre 9: Les années de lycée*   
-*Vocabulaire: p. 362-363*   
+*Examen #3: Chapitre 9: Les années de lycée*   
+*Vocabulaire: p. 362-363*   
 Les verbes *connaître, savoir* et *suivre*: p. 332-333 et p. 335
 
 Les pronoms compléments d'objet direct: p. 338-339
 
 L'imparfait vs. le passé composé: p. 346-347
 
-Les expressions de temps *depuis*, *pendant*, *il y a* : p. 352-353.   
+Les expressions de temps *depuis*, *pendant*, *il y a* : p. 352-353.    
  
 
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
@@ -319,7 +319,7 @@ Composition #2: Est-ce que vous vous souvenez du jour où vous avez reçu une le
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 28
 {{< tdclose >}}{{< tdopen >}}
-*Activité* *Web: Regardez le site suivant pour découvrir des informations sur l'enseignement supérieur en France*: l'enseignement supérieur en FranceRemplissez *la fiche: Activité web* ({{% resource_link "8ff008ed-cd70-57db-e0fc-28642705400a" "PDF" %}})   
+*Activité* *Web: Regardez le site suivant pour découvrir des informations sur l'enseignement supérieur en France*: l'enseignement supérieur en FranceRemplissez *la fiche: Activité web* ({{% resource_link "8ff008ed-cd70-57db-e0fc-28642705400a" "PDF" %}})    
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 29
@@ -329,8 +329,8 @@ Détachez, agraphez et apportez en classe tous les exercices de compréhension a
 
 *Examen #4: Chapitre 10: A la fac!*
 
-*Vocabulaire: p. 402-403*   
-  
+*Vocabulaire: p. 402-403*
+
 Les verbes *dire, lire* et *écrire*: p. 373-374
 
 Les pronoms compléments d'objet indirect: p. 379-380
@@ -370,7 +370,7 @@ Etudiez Structure #3: Les verbes croire et voir: p.422-423. Dans le Cahier d'act
 
 *Activité web* ({{% resource_link "40739737-2286-e4fa-1a0d-b5f5d80b62ff" "PDF" %}}): Allez sur le site de MIT-France qui contient la liste des compagnies françaises proposant des stages aux étudiants du MIT. [Internships - Participating Companies](https://misti.mit.edu/student-programs/location/france)
 
-Choisissez une compagnie qui vous intéresse et remplissez la fiche Activité web avec les informations demandées sur la compagnie que vous avez choisie.   
+Choisissez une compagnie qui vous intéresse et remplissez la fiche Activité web avec les informations demandées sur la compagnie que vous avez choisie.    
  
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -391,14 +391,14 @@ Révisions.
 
 Détachez, agraphez et apportez en classe tous les exercices de compréhension auditive du Chapitre 11: p. 45-48.
 
-*Examen #5: Chapitre 11: Les décisions de la vie active*   
-*Vocabulaire: p. 440-441*   
+*Examen #5: Chapitre 11: Les décisions de la vie active*   
+*Vocabulaire: p. 440-441*   
 Les pronoms interrogatifs *qu'est-ce qui, qu'est-ce que*, etc…: p. 410-411
 
-*Le pronom interrogatif* lequel: *p. 416-417*   
+*Le pronom interrogatif* lequel: *p. 416-417*   
 Les verbes croire et voir: p. 422-423
 
-Le présent du subjonctif: verbes réguliers; expressions impersonnelles d'obligation: p. 428-430.   
+Le présent du subjonctif: verbes réguliers; expressions impersonnelles d'obligation: p. 428-430.    
  
 
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
@@ -427,7 +427,7 @@ Dans Parallèles, lisez Contexte 3: "Loisirs et personnalité:" p. 456-457 et é
 
 Dans Parallèles, lisez Contexte 4: "Ne pas bronzer idiot:" p. 462-463 et étudiez le vocabulaire: p. 463. Dans le Cahier d'activités, faites l'exercice 12-10, p. 211.
 
-*Exercice de compréhension (sur CD audio)*:   
+*Exercice de compréhension (sur CD audio)*:    
 Faites l'exercice de compréhension En direct: Tourisme culturel ({{% resource_link "33698cbb-d095-3a0c-cd4d-fc2173e686e8" "PDF" %}}) à la page 456 dans Parallèles.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -458,10 +458,10 @@ Lisez la bande dessinée de Claire Bretécher à la page 471 et répondez aux qu
 
 Détachez, agraphez et apportez en classe les exercices de compréhension auditive du *Chapitre 12: p. 49-52.*
 
-*Examen #6: Chapitre 12: Loisirs et vacances*  
-  
-*Vocabulaire: p. 474-475*   
-*Les noms géographiques et les prépositions: p. 448-449*   
+*Examen #6: Chapitre 12: Loisirs et vacances*
+
+*Vocabulaire: p. 474-475*   
+*Les noms géographiques et les prépositions: p. 448-449*   
 Le subjonctif d'être et avoir; l'emploi du subjonctif après les expressions de volonté: p. 453-454
 
 Le subjonctif des verbes irréguliers: p. 460
