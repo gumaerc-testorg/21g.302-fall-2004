@@ -2,7 +2,7 @@
 content_type: resource
 description: "This resource contains the information regarding chapitre 12 loisirs\
   \ et personnalit\xE9."
-file: /courses/21g-302-french-ii-fall-2004/b0d0173eff349584065babc88bd81ac5_MIT21G_302_F04_classe_W.pdf
+file: /ol-ocw-studio-app/courses/21g-302-french-ii-fall-2004/b0d0173eff349584065babc88bd81ac5_MIT21G_302_F04_classe_W.pdf
 file_size: 63626
 file_type: application/pdf
 learning_resource_types:
