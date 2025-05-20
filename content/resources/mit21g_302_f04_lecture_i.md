@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding Fiche de lecture.
-file: /ol-ocw-studio-app/courses/21g-302-french-ii-fall-2004/0937099919aa7b2819c07abf221c6c33_MIT21G_302_F04_lecture_I.pdf
+file: /courses/21g-302-french-ii-fall-2004/0937099919aa7b2819c07abf221c6c33_MIT21G_302_F04_lecture_I.pdf
 file_size: 58153
 file_type: application/pdf
 learning_resource_types:
