@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding activit de classe lLa
   qualit de notre vie.
-file: /courses/21g-302-french-ii-fall-2004/05fb317f5124670c223c8d1b0a3241a1_MIT21G_302_F04_Classe_Z3.pdf
+file: /ol-ocw-studio-app/courses/21g-302-french-ii-fall-2004/05fb317f5124670c223c8d1b0a3241a1_MIT21G_302_F04_Classe_Z3.pdf
 file_size: 55654
 file_type: application/pdf
 learning_resource_types:

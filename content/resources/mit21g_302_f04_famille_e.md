@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding activite de Classe nos
   photos de famille.
-file: /courses/21g-302-french-ii-fall-2004/be8913beb660687092a8351781703dfe_MIT21G_302_F04_famille_E.pdf
+file: /ol-ocw-studio-app/courses/21g-302-french-ii-fall-2004/be8913beb660687092a8351781703dfe_MIT21G_302_F04_famille_E.pdf
 file_size: 56605
 file_type: application/pdf
 learning_resource_types:
