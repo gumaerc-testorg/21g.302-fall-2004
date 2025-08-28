@@ -9,17 +9,17 @@ uid: 2fc7ce59-4809-c4a5-7845-7583583b39a3
 ---
 ## I. Médias: Presse Ecrite
 
-- AU MIT     
+- AU MIT      
       
-    - Hebdomadaires     
+    - Hebdomadaires      
           
         - Le Point
         - Le Monde - sélection hebdomadaire
         - Le Nouvel Observateur
-    - Quotidiens     
+    - Quotidiens      
           
         - Le Monde
-- Presse En Ligne     
+- Presse En Ligne      
       
     - Presse quotidienne (entre autres)
         - [Le Monde](http://www.lemonde.fr/)
@@ -50,17 +50,17 @@ uid: 2fc7ce59-4809-c4a5-7845-7583583b39a3
     - Pour emprunter des vidéos de films en français (liste de 200 films), allez voir le Film Office.
 - A L'EXTERIEUR DU MIT
     - Pour la liste des films français dans la région, voir ([frenchculture.org](http://www.frenchculture.org/))
-    - Pour des infos générales sur le Consulat de France à Boston, voir ([consulfrance-boston.org](http://www.consulfrance-boston.org/) )
+    - Pour des infos générales sur le Consulat de France à Boston, voir ([consulfrance-boston.org](https://boston.consulfrance.org/) )
 
 ## IV. Ressources Linguistiques
 
-- Dictionnaires en ligne     
+- Dictionnaires en ligne      
       
-    1. Dictionnaires français-anglais     
+    1. Dictionnaires français-anglais      
           
         1. [Consultation Des Atlas Sémantiques](http://dico.isc.cnrs.fr/)
         2. [ARTFL Project: French-English Dictionary Form](https://artfl-project.uchicago.edu/)
-    2. Grammaires en ligne (avec exercices auto-correctifs)     
+    2. Grammaires en ligne (avec exercices auto-correctifs)      
           
         - [French Grammar Central](http://www.utm.edu/staff/globeg/gramm.shtml)
         - [Tex's French Grammar](http://www.laits.utexas.edu/tex/gr/)
