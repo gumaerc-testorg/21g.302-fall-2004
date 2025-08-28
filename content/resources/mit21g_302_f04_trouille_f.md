@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding activite de Class halloween,
   conqurante a trouille.
-file: /courses/21g-302-french-ii-fall-2004/d87d3cc5c2fa08a389d123af60c82648_MIT21G_302_F04_trouille_F.pdf
+file: /ol-ocw-studio-app/courses/21g-302-french-ii-fall-2004/d87d3cc5c2fa08a389d123af60c82648_MIT21G_302_F04_trouille_F.pdf
 file_size: 57085
 file_type: application/pdf
 learning_resource_types:
