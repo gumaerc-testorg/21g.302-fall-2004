@@ -50,7 +50,7 @@ Every week or two weeks you will receive a detailed syllabus outlining the work 
 
 Additional homework might include watching videos and using the web. These assignments will always be announced well ahead of time.
 
-*   please check the [MIT French Web page](https://mitgsl.mit.edu/academics/french-and-francophone-studies) for regular updates on the program, French resources, as well as useful information about available French grants and fellowships for both undergraduate and graduate students.
+*   please check the {{% resource_link "efe3c92c-adc8-43d4-b736-658816118168" "MIT French Web page" %}} for regular updates on the program, French resources, as well as useful information about available French grants and fellowships for both undergraduate and graduate students.
 
 The LLARC (Language Learning and Resource Center)
 
